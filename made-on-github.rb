@@ -1,1 +1,1 @@
-puts "I was made on github!"
+puts "I was made on Github!"
